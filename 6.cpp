@@ -21,7 +21,7 @@ int main()
 	cin >> c;
 	if ((x - 1 > 0) && (b - x != 0))
 	{
-		y = a * x * x + b;
+		y = a  * x + b;
 	}
 	if ((x - 1 > 0) && (b + x == 0))
 	{
